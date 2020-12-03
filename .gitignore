@@ -1,0 +1,16 @@
+.vs/
+Zork.Common/bin/
+Zork.Common/obj/
+Zork.Console/bin/
+Zork.Console/obj/
+Zork.Builder/bin/
+Zork.Builder/obj/
+Zork/bin/
+Zork/obj/
+Zork.Unity/Library
+Zork.Unity/Logs
+Zork.Unity/Temp/
+Zork.Unity/UserSettings
+Zork.Unity/*.csproj
+Zork.Unity/*.sln
+Zork.Unity/.vs/
